@@ -1,2 +1,3 @@
 # kube-webhook
-A kubernetes webhook server than implements sidecar verify and injection.
+---
+This tutoral shows how to build and deploy a MutatingAdmissionWebhook and ValidatingAdmissionWebhook that injects a filebeat sidecar container into pod.
